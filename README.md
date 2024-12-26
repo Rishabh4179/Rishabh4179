@@ -1,6 +1,3 @@
-<img src="https://avatars.githubusercontent.com/u/145285285?s=400&u=bc0dfc53e7d1b7088bd726abcfd75cec6b43254d&v=4" alt="Profile" width="200" height="200" style="border-radius: 50%; margin-bottom: 20px;">
-
-# Rishabh Sharma
 ### Software Development Engineer
 
 Aspiring Computer Science and Engineering (CSE) student| Passionate about technology, coding, and problem-solving

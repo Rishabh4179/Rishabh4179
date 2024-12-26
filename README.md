@@ -1,4 +1,4 @@
-### Software Development Engineer
+### Software Developer
 
 Aspiring Computer Science and Engineering (CSE) student| Passionate about technology, coding, and problem-solving
 

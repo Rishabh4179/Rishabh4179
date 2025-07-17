@@ -7,6 +7,7 @@ Aspiring Computer Science and Engineering (CSE) student| Passionate about techno
 - Advanced: `C++`
 
 🔭 **Featured Projects**
+- [SplitGeniusAI](https://github.com/Rishabh4179/SplitGeniusAI) - Revolutionizes expense sharing with cutting-edge artificial intelligence. Say goodbye to complex calculations and awkward money conversations! Our platform makes splitting expenses with friends, roommates, or any group feel like magic. 
 - [CloudByte](https://github.com/Rishabh4179/CloudByte) - A storage management and file-sharing platform that lets users effortlessly upload, organize, and share files. Built with the latest Next.js 15 and the Appwrite Node SDK, utilizing advanced features for seamless file management.
 - [HorizonX](https://github.com/Rishabh4179/HorizonX) - This weather application provides real-time weather updates and forecasts for multiple cities. It displays current temperature, weather conditions, humidity, wind speed, sunrise/sunset timings, and a 5-day forecast. Users can easily switch between favorite locations and view detailed weather trends using an intuitive and dark-themed interface.
 

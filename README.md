@@ -62,8 +62,6 @@ Aspiring Computer Science and Engineering (CSE) student| Passionate about techno
 - [CloudByte](https://github.com/Rishabh4179/CloudByte) - A storage management and file-sharing platform that lets users effortlessly upload, organize, and share files. Built with the latest Next.js 15 and the Appwrite Node SDK, utilizing advanced features for seamless file management.
 - [HorizonX](https://github.com/Rishabh4179/HorizonX) - This weather application provides real-time weather updates and forecasts for multiple cities. It displays current temperature, weather conditions, humidity, wind speed, sunrise/sunset timings, and a 5-day forecast. Users can easily switch between favorite locations and view detailed weather trends using an intuitive and dark-themed interface.
 
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif)
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rishabh4179&show_icons=true&theme=dark" alt="GitHub Stats" />
